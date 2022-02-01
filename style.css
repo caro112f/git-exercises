@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  background-color: palevioletred;
+  width: 80%;
+  height: auto;
+}
+ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+li {
+  list-style: none;
+  padding: 2rem;
+}
+.vertical_line {
+  display: inline-block;
+  border-right: 2px solid black;
+}
